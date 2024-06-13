@@ -15,5 +15,5 @@
 
 ## Contract Details
 
-- ZeekMessages: 
-- Token: 
+- ZeekMessages deployment: https://sepolia.explorer.zksync.io/address/0xA9d3f14A33Fb67dd73710052c6C8131b5ca75395
+- Token: https://sepolia.explorer.zksync.io/address/0x36556fE8b88081fE672C5bfC4C5b6Fb0feF5BB54
